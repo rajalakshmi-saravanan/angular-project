@@ -1,35 +1,18 @@
-.logo img {
-  padding: 30px 0;
-  width: 100%;
-}
-
-.resource-list {
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: larger;
-  padding: 10px;
-  text-align: center;
-}
-
-.resource-list ul {
-    text-align: left;
-    margin: 0 auto;
-    width: 300px;
-}
-
-.resource-list a {
-  color: black;
-  line-height: 30px;
-}
-
-footer {
-  bottom: 10px;
-  font-family: Helvetica, Arial, sans-serif;
-  margin: 0 auto;
-  width: 100%;
-  position: fixed;
-  text-align: center;
-}
-
-footer img {
-    width: 20px;
-}
+.row1,.row2,.row3,.row4{
+    margin-bottom: 10px; 
+  }
+  
+  .SliderBoard{
+    text-align: center;
+    display: inline-block;    
+  }
+  
+  .btn {
+    width: 60px ;
+  }   
+  .hide-tile {
+    opacity:0;
+  }
+  .play{
+    width:auto !important;
+  }
